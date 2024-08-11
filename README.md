@@ -9,8 +9,12 @@
 
 Objective
 Motivated and detail-oriented and eager to learn final year Bachelor of Engineering student specializing in Computer Science, seeking opportunities to apply technical skills and contribute to innovative projects for the organisation.
+
+
 Education
+
 BACHELOR OF TECHNOLOGY IN COMPUTER SCIENCE AND ENGINEERING - 8.17 CGPA 
+
 Jun 2024 |Dumka Engineering College, Dumka
 
 
