@@ -1,66 +1,22 @@
-- 👋 Hi, I’m Himanshu Tiwari
-- 👀 I’m interested in Web Development 
-  
-- 📫 How to reach me ...  This is my  Email  { tiwarihimanshu.ht2001@gmail.com }
+<h1 align="center">Hi 👋, I'm Himanshu Kumar Tiwari</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
+- 🌱 I’m currently learning **React**
 
+- 💬 Ask me about **Django, React, JavaScript, GSAP.....**
 
+- 📫 How to reach me **tiwarihimanshu.ht2001@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-tiwari-3253b0214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-tiwari-3253b0214/" height="30" width="40" /></a>
+<a href="https://instagram.com/virathimanshu99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virathimanshu99" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/imprt_himansu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/imprt_himansu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/himanshu_tiwari_3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/himanshu_tiwari_3/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/himanshutiwari2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/himanshutiwari2001" height="30" width="40" /></a>
+</p>
 
-Objective
-Motivated and detail-oriented and eager to learn final year Bachelor of Engineering student specializing in Computer Science, seeking opportunities to apply technical skills and contribute to innovative projects for the organisation.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-
-Education
-
-BACHELOR OF TECHNOLOGY IN COMPUTER SCIENCE AND ENGINEERING - 8.17 CGPA 
-
-Jun 2024 |Dumka Engineering College, Dumka
-
-
-HIGHER SECONDRY (12 TH) 
-
-Science Devasthaly Vidyapeeth | Mar 2018
-
-
-SECONDRY (10 TH) - 83 % 	
-
-St. Thomas School | Mar 2016  
-
-
-Projects
-
-
-DIGITAL STEGANOGRAPHY PROJECT
-
-
-Created a secure digital steganography system utilizing the Django framework to hide sensitive information within images and audio files. Employed various image and audio steganography techniques, such as LSB embedding and extraction methods, to maintain data integrity and privacy. 
-Incorporated user authentication and authorization features for access control. 
-Technologies used include the Django framework, Python, HTML/CSS/Bootstrap, and image and audio processing libraries (e.g., PIL, SciPy).
-
-
-
-E-COMMERCE WEBSITE – BUYWISE
-
-
-The BuyWise - Django Project served as a comprehensive learning opportunity in E-commerce development, focusing on the creation of a fully functional E-Shopping project utilizing the Django framework. Throughout this project, I acquired practical expertise in product display, filtering, login/authentication, customer registration, add-to-cart, multi-address handling, and password management. My involvement in this project showcases my expertise in E-commerce development using Django and web application design.
-The technology used includes Python, Django, Ajax. Additionally, the project may optionally integrate a PayPal Business Account for payment gateway purposes
-
-
-
-Skills & Abilities
-•	Languages: Java and Python
-
-•	Developer Tools: Vs-code, Jupyter Notebook
-
-•	Technologies and Framework: Django, HTML CSS, Java Script, SQL, XML, C, 
-
-
-Certifications
-
-•	Google IT Support (3/2023) - The Google IT Support Professional Certificate is designed to provide learners with the foundational skills needed to start a career in IT support. In this I covers a wide range of topics, including: Technical Support Fundamentals, Networking, Operating Systems, System Administration, Security and Troubleshooting.
-
-
-•	Prime Code Champ (8/2023) - Coding Challenge- The objective of Prime Code Champ is to challenge the talented and creative minds in competitive programming with some interesting algorithmic problems. 
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-tiwari2001&show_icons=true&locale=en&layout=compact" alt="himanshu-tiwari2001" /></p>
