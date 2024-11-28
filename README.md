@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **Creative Developer**
 
+- https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Tiwari2001&theme=dark&hide_border=false
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-tiwari-3253b0214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-tiwari-3253b0214/" height="30" width="40" /></a>
