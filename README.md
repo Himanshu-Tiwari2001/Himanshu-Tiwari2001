@@ -1,11 +1,6 @@
 <h1 align="center">Hello 👋, I'm Himanshu Kumar Tiwari</h1>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hlw Developer!+👋;+I'm+Himanshu Kumar Tiwari!;" />
-</h1>
+
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-tiwari2001&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-tiwari2001" /> </p>
 
