@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-tiwari2001&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-tiwari2001" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning  **Data Analysis** ,**React** 
 
-- 💬 Ask me about **Django, React, JavaScript, GSAP.....**
+- 💬 Ask me about **Django, React, JavaScript, GSAP, MYSQL**
 
 - 📫 How to reach me **tiwarihimanshu.ht2001@gmail.com**
 
