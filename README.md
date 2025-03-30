@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-tiwari2001&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-tiwari2001" /> </p>
 
-- 🌱 I’m currently learning  **Data Analysis**
-- **Data Is The New Oil**
+- 🌱 I’m currently learning  **Data Analysis** - **Data Is The New Oil**
+
 
 - 💬 Ask me about **Django, React, JavaScript, GSAP, MYSQL**
 
