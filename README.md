@@ -19,7 +19,7 @@
   
 **➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖**
 **
-- ## 💡MY Projects
+## 💡MY Projects
 
 - **Customer Churn Analysis** [📂 Link ⛓️‍💥](https://github.com/Himanshu-Tiwari2001/Customer-Churn-Analysis-Telecom-Company)
   
