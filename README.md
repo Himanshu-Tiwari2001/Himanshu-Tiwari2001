@@ -21,17 +21,13 @@
 **
 - ## 💡MY Projects
 
-- **Customer Churn Analysis**
-  [📂⛓️‍💥](https://github.com/Himanshu-Tiwari2001/Customer-Churn-Analysis-Telecom-Company)
+- **Customer Churn Analysis** [📂 Link ⛓️‍💥](https://github.com/Himanshu-Tiwari2001/Customer-Churn-Analysis-Telecom-Company)
   
-- **Chocolate Sales Analysis PowerBI Project**
--  📈[ 🛒 Dashboard ⛓️‍💥 ](https://github.com/Himanshu-Tiwari2001/Chocolate-Sales-Analysis--Power-BI-Project-)
+- **Chocolate Sales Analysis PowerBI Project**  📈[ 🛒 Dashboard ⛓️‍💥 ](https://github.com/Himanshu-Tiwari2001/Chocolate-Sales-Analysis--Power-BI-Project-)
 - 
-- **Credit-Card-Customer-Analysis-Power-Bi-Project**
--  [🪪 Dashboard ⛓️‍💥 ](https://github.com/Himanshu-Tiwari2001/Credit-Card-Customer-Analysis-Power-Bi-Project)
+- **Credit-Card-Customer-Analysis-Power-Bi-Project** [🪪 Dashboard ⛓️‍💥 ](https://github.com/Himanshu-Tiwari2001/Credit-Card-Customer-Analysis-Power-Bi-Project)
 
--  **MYSQL Project** **➡️**  **SQL-Retails_sales_data_Analysis_Project**
--  [📂⛓️‍💥](https://github.com/Himanshu-Tiwari2001/SQL-Retails_sales_data_Analysis_Project)
+-  **MYSQL Project**  **SQL-Retails_sales_data_Analysis_Project** [📂 Link ⛓️‍💥](https://github.com/Himanshu-Tiwari2001/SQL-Retails_sales_data_Analysis_Project)
 
   
 
