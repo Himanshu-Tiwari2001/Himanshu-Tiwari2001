@@ -1,6 +1,6 @@
 <h1 align="center">Hello Developers👋, I'm Himanshu Tiwari</h1>
 
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-tiwari2001&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-tiwari2001" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:AP:13be058a-24f7-4e49-8c32-a901281675d4](https://acrobat.adobe.com/id/urn:aaid:sc:AP:13be058a-24f7-4e49-8c32-a901281675d4)
 
-- ⚡ Fun fact **Creative Developer**
+- ⚡ Fun fact  **Data Analyst** , **Creative Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
