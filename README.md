@@ -4,6 +4,9 @@
 <h3 align="left" text-size ="10px">Detail-oriented and results-driven Data Analyst skilled in transforming complex data into actionable insights using Excel, SQL, Power BI, Tableau, and Python. Strong expertise in data visualization, database management, and building interactive dashboards. Passionate about leveraging data to drive business decisions and improve customer outcomes.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-tiwari2001&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-tiwari2001" /> </p>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="himanshu-tiwari-3253b0214" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/himanshu-tiwari-3253b0214?trk=profile-badge">Himanshu Tiwari.</a></div>
+              
+
 - 🌱 I’m currently learning  **Data Analysis** - **Data Is The New Oil**
 
 
